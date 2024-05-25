@@ -21,4 +21,4 @@ print("NIM      Nilai UTS   Nilai UAS   Nilai Total")
 print("=" * 50)
 for i in range (ulang):
     print("%s   %i          %i          %i" % (list_nim[i], list_uts[i], list_uas[i], list_total[i]))
-print("=" *50)
+print("=" *50) 
